@@ -50,4 +50,10 @@ document.addEventListener('DOMContentLoaded', () => {
       image: 'images/pizza.png',
     },
   ];
+
+const grid = document.querySelector('.grid');
+//create game board
+ 
+
+
 });
